@@ -7,7 +7,7 @@
 
 </div>
 
-# 📊 Github Stats
+## 📊 Github Stats
 
 [![KeepSOBP's github stats](https://github-readme-stats.vercel.app/api?username=KeepSOBP&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -33,13 +33,13 @@
 
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="JavaScript" width="90">
 
-# 📞 Contact
+## 📞 Contact
 [![Discord](https://img.shields.io/badge/Discord-Bread＃2635-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/548821619661864962)
 [![Twitch](https://img.shields.io/badge/Twitch-비누데스(keepsobp)-purple?style=for-the-badge&logo=twitch)](https://twitch.tv/keepsobp)
 
-email: bread@e-hentai.ml
+email: osu@kakao.com
 
-# 😳 Projects
+## 😳 Projects
 
 <details>
   <summary><h4>Repos</h4></summary>
