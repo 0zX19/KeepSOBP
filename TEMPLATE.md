@@ -8,4 +8,5 @@
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![](https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white)
 
