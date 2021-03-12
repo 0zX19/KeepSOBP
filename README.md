@@ -1,11 +1,11 @@
 ## Hello. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeepSOBP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👉%20hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ```
+⬆️ Pushed 10 commits to KeepSOBP/Hikari
 ⬆️ Pushed 1 commit to KeepSOBP/KeepSOBP
 ⬆️ Pushed 1 commit to KeepSOBP/KeepSOBP
 ⬆️ Pushed 1 commit to KeepSOBP/KeepSOBP
 ⬆️ Pushed 2 commits to KeepSOBP/chimu.moe-i18n-kr
-💪 Opened PR #18 in Chimu-moe/i18n
 ```
 
 ### I use
