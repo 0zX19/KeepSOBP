@@ -1,12 +1,6 @@
-## Hello. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeepSOBP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👉%20hits&edge_flat=true)](https://hits.seeyoufarm.com)
+## Hello. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeepSOBP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-```
-⬆️ Pushed 1 commit to KeepSOBP/Hikari
-⬆️ Pushed 2 commits to KeepSOBP/Hikari
-🗣 Commented on #8652 in microsoft/winget-pkgs
-💪 Opened PR #8652 in microsoft/winget-pkgs
-⬆️ Pushed 1 commit to KeepSOBP/winget-pkgs
-```
+[![Discord](https://discord.c99.nl/widget/theme-2/548821619661864962.png)](http://discord.com/users/548821619661864962)
 
 ### I use
 
