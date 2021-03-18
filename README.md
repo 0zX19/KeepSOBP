@@ -1,6 +1,6 @@
 ## Hello. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeepSOBP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Discord](https://discord.c99.nl/widget/theme-2/548821619661864962.png)](http://discord.com/users/548821619661864962)
+[![Discord](https://discord.c99.nl/widget/theme-3/548821619661864962.png)](http://discord.com/users/548821619661864962)
 
 ### I use
 
